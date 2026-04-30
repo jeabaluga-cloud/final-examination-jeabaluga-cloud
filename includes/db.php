@@ -1,9 +1,9 @@
 <?php
 $host = '127.0.0.1'; 
-$db   = 'balugadb';  //sukatan yo dytoy jay nagan ti database yo
-$user = 'root';        //
-$pass = '';            //
-$port = '3308';        //nu nagusar kayo sabali nga port sukatan yo metlang dytoy
+$db   = 'balugadb'; 
+$user = 'root';        
+$pass = '';            
+$port = '3307';        
 $charset = 'utf8mb4';
 
 
